@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    font-family: 'Dosis', sans-serif;
+}
+
+body{
+    background-image: url('../src/assets/fondo2.jpg');
+}
+
+.web{
+    align-items: center;
+    justify-content: center;
+    margin-right: auto;
+    text-align: center;
+    margin-left: auto;
+}

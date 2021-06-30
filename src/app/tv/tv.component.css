@@ -1,0 +1,21 @@
+.tv{
+    background-color: white;
+}
+
+.center{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.pag{
+    padding: 50px;
+    text-align: center;
+}
+
+.video{
+    text-align: center;
+    z-index: 5;
+    margin-left: 35px;
+    position: absolute;
+    margin-top: 180px;     
+}

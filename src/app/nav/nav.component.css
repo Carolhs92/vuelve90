@@ -1,0 +1,48 @@
+button {
+    cursor: pointer;
+  }
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+/********************************************/
+
+/*navigator*/
+
+.nav-desktop{
+    display: table;
+    background-color: #ffa0b8;
+    box-shadow: 15px 15px 1px #212d67;
+    width: 100%;
+    text-align: center;
+}
+
+.nav-sections{
+    display:inline-block;
+    vertical-align: middle;
+    font-size: 2em;
+}
+
+.section{
+    padding-right: 50px;
+}
+
+.section:hover{
+    text-shadow:  1px 1px 2px rgb(11, 143, 114);
+}
+
+/*LOGO*/
+a.nav-sections:nth-child(1) {
+    width: 10%;
+}
+
+a.nav-sections:nth-child(1) > img:nth-child(1) {
+    width: 90%;
+}
+  
